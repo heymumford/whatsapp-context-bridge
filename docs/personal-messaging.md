@@ -2,8 +2,8 @@
 
 ## Spectrum SMS/RCS
 
-Spectrum is the transport provider, not the useful software boundary. On Eric's
-Android phone, messages are held by the messaging application and Android's
+Spectrum is the transport provider, not the useful software boundary. On the
+user's Android phone, messages are held by the messaging application and Android's
 telephony surfaces. The planned Kotlin companion will offer two deliberately
 different modes:
 
